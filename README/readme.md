@@ -1,5 +1,7 @@
 
-![Logo of the project](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png)
+<h1> Agenda Project </h1>
+
+![Logo of the project](https://github.com/fescarvalho/projetoAgenda/blob/main/README/login.gif)
 
 
 
@@ -12,6 +14,9 @@ Here are the technologies used in this project.
 * Mongoose: 6.0.13
 * Express: 4.17.1
 * Webpack: 4.41.2
+
+![cadastro](https://github.com/fescarvalho/projetoAgenda/blob/main/README/cadastro.gif)
+
 
 ## Services Used
 
@@ -26,9 +31,11 @@ https://projectagenda.herokuapp.com
 ## Features
 
 The main features of the application are:
- - Publish Posts.
- - Learn a lot of information <3
+ - Register contacts by email
+ - Register contacts by phone number
+ - Login with email and password
 
+![login](https://github.com/fescarvalho/projetoAgenda/blob/main/README/login2.gif)
 
 ## Links
   - Repository: https://github.com/fescarvalho/projetoAgenda
